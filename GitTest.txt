@@ -1,3 +1,0 @@
-Test adding and removing files from Git to GitHub
-
-Now I change this file, can you see it? :)
